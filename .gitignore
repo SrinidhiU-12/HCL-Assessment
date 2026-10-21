@@ -1,0 +1,13 @@
+
+# Visual Studio temporary files
+.vs/
+**/.vs/
+*.vsidx
+*.suo
+*.user
+bin/
+obj/
+
+# Build and package files
+[Bb]in/
+[Oo]bj/
